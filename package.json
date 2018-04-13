@@ -1,0 +1,20 @@
+{
+  "name": "served",
+  "version": "1.0.0",
+  "description": "A basic web server to host my travel photography and or music/art I like to share with my friends i.e things I think are heady",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpaceTrev/SpaceServer.git"
+  },
+  "author": "SpaceTrev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpaceTrev/SpaceServer/issues"
+  },
+  "homepage": "https://github.com/SpaceTrev/SpaceServer#readme"
+}
